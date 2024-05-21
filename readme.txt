@@ -1,0 +1,1 @@
+In this set of tools we will provide techniques for accessing email, updating MS Office files, adding data validation, and saving those files.  
